@@ -6,8 +6,6 @@
   "dwPlantedC4": 27728944,
   "dwViewMatrix": 27710048,
   "dwLocalPlayerController": 27602176,
-
-  // New useful offsets
   "dwCSGOInput": 27750656,
   "dwGameEntitySystem": 28474184,
   "dwGameEntitySystem_highestEntityIndex": 8432,
@@ -20,8 +18,6 @@
   "dwViewAngles": 27751632,
   "dwViewRender": 27712368,
   "dwWeaponC4": 27288912,
-
-  // Engine2.dll useful entries
   "dwNetworkGameClient": 5504224,
   "dwNetworkGameClient_clientTickCount": 872,
   "dwNetworkGameClient_deltaTick": 636,
@@ -32,19 +28,11 @@
   "dwNetworkGameClient_signOnState": 552,
   "dwWindowHeight": 6436252,
   "dwWindowWidth": 6436248,
-
-  // inputsystem.dll
   "dwInputSystem": 231392,
-
-  // matchmaking.dll
   "dwGameTypes": 1725152,
   "dwGameTypes_mapName": 288,
-
-  // soundsystem.dll
   "dwSoundSystem": 3806704,
   "dwSoundSystem_engineViewData": 124,
-
-  // Netvars (unchanged)
   "m_ArmorValue": 9244,
   "m_bIsDefusing": 9194,
   "m_flC4Blow": 4032,
